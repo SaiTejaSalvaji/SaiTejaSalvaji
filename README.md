@@ -20,25 +20,45 @@ A curious developer passionate about **problem solving**,
 ---
 
 ## 🧠 Competitive Programming Profiles
-
 <p align="left">
-  <a href="https://leetcode.com/sai_teja26" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <a href="https://leetcode.com/sai_teja26">
+    <img src="https://img.shields.io/badge/LeetCode-ffa116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://codeforces.com/profile/sai_teja26" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <a href="https://codeforces.com/profile/sai_teja26">
+    <img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
-  <a href="https://www.codechef.com/users/sai_teja26" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <a href="https://www.codechef.com/users/sai_teja26">
+    <img src="https://img.shields.io/badge/CodeChef-5b4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
-  <a href="https://smartinterviews.in/profile/sai_teja26" target="_blank">
+  <a href="https://smartinterviews.in/profile/sai_teja26">
     <img src="https://img.shields.io/badge/Smart%20Interviews-DSA-success?style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 LeetCode Stats & Contest Activity
+<p align="left">
+  <img src="https://leetcode-readme-stats.vercel.app/api?username=sai_teja26&theme=dark" />
+</p>
+
+---
+
+## ⚡ Codeforces Rating Graph
+<p align="left">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sai_teja26&theme=dark" />
+</p>
+
+---
+
+## 🏆 CodeChef Profile
+<p align="left">
+  <img src="https://img.shields.io/badge/CodeChef-Rating%20Profile-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SaiTejaSalvaji&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
@@ -52,7 +72,7 @@ A curious developer passionate about **problem solving**,
 
 ---
 
-## 📈 Contribution Graph
+## 📊 GitHub Contribution Graph
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiTejaSalvaji&theme=tokyo-night&hide_border=true" />
 </p>

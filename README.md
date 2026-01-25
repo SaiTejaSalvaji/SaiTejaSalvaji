@@ -6,20 +6,20 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 A curious developer passionate about **problem solving**,  
 **competitive programming**, and **building impactful software**.
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,react,nodejs,mongodb,mysql,python,git&theme=dark" />
 </p>
 
 ---
 
-## 🧠 Competitive Programming Profiles
+## Competitive Programming Profiles
 <p align="left">
   <a href="https://leetcode.com/sai_teja26">
     <img src="https://img.shields.io/badge/LeetCode-ffa116?style=for-the-badge&logo=leetcode&logoColor=black"/>
